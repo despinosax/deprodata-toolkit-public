@@ -20,7 +20,7 @@ The purpose of this repository is to ensure **academic transparency, citability,
 ## Citation
 If you use material from this repository, please cite as:
 
-**Espinosa, D. (2025). DEPRODATA Toolkit (Public Release). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX**
+**Espinosa, D. (2025). DEPRODATA Toolkit (Public Release): A modular framework for data-driven analysis. Zenodo. https://doi.org/10.5281/zenodo.16993626**
 
 ---
 
@@ -32,11 +32,3 @@ This repository uses a **dual licensing scheme**:
 
 ---
 
-## How to regenerate the figures
-```bash
-# Python 3.11+ recommended
-pip install -r environment.txt
-
-# Example commands:
-python scripts/plot_radar_from_csv.py data/anchor_global_example.csv figures/example_radarplot.png
-python scripts/make_psd_figures_from_xlsx.py data/psd_example.xlsx figures/example_psd.png

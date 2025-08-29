@@ -11,7 +11,7 @@ authors:
 # orcid: "https://orcid.org/0009-0004-3241-5953"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.XXXXXXX
+    value: 10.5281/zenodo.16993626
 repository-code: "https://github.com/despinosax/deprodata-toolkit-public"
 keywords:
   - comminution
