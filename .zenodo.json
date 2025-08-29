@@ -1,0 +1,23 @@
+{
+  "title": "DEPRODATA Toolkit (Public Release)",
+  "upload_type": "dataset",
+  "description": "Minimal, citable reproducibility package including anonymized data and lightweight scripts to reproduce key figures (radar plots, PSD) from DEPRODATA studies.",
+  "creators": [
+    {
+      "name": "Espinosa, Diego",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "keywords": ["comminution", "energy", "PSD", "radar plot", "reproducibility"],
+  "license": "GPL-3.0",
+  "notes": "Code licensed under GPLv3; data and figures under CC-BY-4.0 (see LICENSE).",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/despinosax/deprodata-toolkit-public",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "access_right": "open",
+  "communities": []
+}

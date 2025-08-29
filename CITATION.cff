@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "DEPRODATA Toolkit (Public Release)"
+message: "If you use this repository, please cite it as below."
+type: dataset
+version: "v0.0.0"
+date-released: "2025-08-29"
+authors:
+  - family-names: Espinosa
+    given-names: Diego
+    affiliation: Independent Researcher
+# orcid: "https://orcid.org/0009-0004-3241-5953"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.XXXXXXX
+repository-code: "https://github.com/despinosax/deprodata-toolkit-public"
+keywords:
+  - comminution
+  - energy efficiency
+  - particle size distribution
+  - radar plots
+  - reproducibility
+license: GPL-3.0
