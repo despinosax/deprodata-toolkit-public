@@ -20,7 +20,7 @@ The purpose of this repository is to ensure **academic transparency, citability,
 ## Citation
 If you use material from this repository, please cite as:
 
-**Espinosa, D. (2025). DEPRODATA Toolkit (Public Release): A modular framework for data-driven analysis. Zenodo. https://doi.org/10.5281/zenodo.16993626**
+**Espinosa, D. DEPRODATA Toolkit (Open Release): A modular framework for data-driven analysis; Zenodo - CERN Data Centre: Genève, Switzerland, 2025. Available online: https://doi.org/10.5281/zenodo.16993626**
 
 ---
 
